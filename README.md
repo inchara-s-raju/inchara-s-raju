@@ -8,6 +8,7 @@ About Me:
 - 🌱 I’m currently learning DSA in JavaScript.
 
 Languages and Tools
+<img src="https://github.com/inchara-s-raju/inchara-s-raju/assets/61198377/82de9693-5cb1-4a8c-878d-584124a75c05" width="100" height="100">
 ![image](https://github.com/inchara-s-raju/inchara-s-raju/assets/61198377/82de9693-5cb1-4a8c-878d-584124a75c05|width=100)
 ![image](https://github.com/inchara-s-raju/inchara-s-raju/assets/61198377/a09e7aa9-9e7b-4f17-bed6-f5ed769ac129)
 ![image](https://github.com/inchara-s-raju/inchara-s-raju/assets/61198377/fa769044-4bde-41be-935e-4d8bbc439c26)
