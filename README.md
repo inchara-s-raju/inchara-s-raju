@@ -13,6 +13,8 @@ About Me:
 <img src="https://github.com/inchara-s-raju/inchara-s-raju/assets/61198377/fa769044-4bde-41be-935e-4d8bbc439c26" width="50" height="50">
 <img src="https://github.com/inchara-s-raju/inchara-s-raju/assets/61198377/cdec8797-f947-4cbc-b502-d6437d1b3386" width="50" height="50">
 <img src="https://github.com/inchara-s-raju/inchara-s-raju/assets/61198377/a1a6be23-ff69-409b-a4c1-15f78b99fc86" width="50" height="50">
+<img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" width="50" height="50">
+
 
 
 
