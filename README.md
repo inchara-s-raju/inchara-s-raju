@@ -5,7 +5,7 @@ About Me:
 
 - 😄 Pronouns: She/Her.
 - 👩‍💼 I’m currently working as a Frontend Developer at Wipro.
-- 🌱 I’m currently learning DSA in JavaScript.
+- 🌱 I’m currently learning DSA in Java.
 
 <h2>Languages and Tools</h2>
 <div style="display:flex;column-gap:4">
